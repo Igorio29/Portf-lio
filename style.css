@@ -1,0 +1,46 @@
+
+body {
+    background-image: url(./img/rear-view-programmer-working-all-night-long.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Oswald', sans-serif;
+    
+    background-color: rgb(0, 27, 51);
+}
+
+.Logo {
+    text-align: center;
+    margin-top: 16%;
+}
+
+.Logo img {
+    width: 180px;
+    border-radius: 20px;
+}
+
+.sobre-mim {
+    margin: 5%;
+    margin-top: 38%;
+    margin-bottom: 5%;
+}
+
+    .sobre-mim h1 {
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+    .sobre-mim p {
+        font-size: 24px;
+        margin-right: 30px;
+        text-align: justify;
+    }
+
+    .sobre-mim img {
+        width: 35%;
+        height: 37%;
+        border: solid, white, 4px;
+    }
+
+.historia {
+    background-color: rgb(24, 24, 24);
+}
